@@ -1,3 +1,21 @@
 [submodule "puppet/modules/apt"]
 	path = puppet/modules/apt
 	url = https://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "puppet/modules/concat"]
+	path = puppet/modules/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "puppet/modules/stdlib"]
+	path = puppet/modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "puppet/modules/postgresql"]
+	path = puppet/modules/postgresql
+	url = https://github.com/puppetlabs/puppetlabs-postgresql.git
+[submodule "puppet/modules/wget"]
+	path = puppet/modules/wget
+	url = https://github.com/maestrodev/puppet-wget.git
+[submodule "puppet/modules/erlang"]
+	path = puppet/modules/erlang
+	url = https://github.com/garethr/garethr-erlang.git
+[submodule "puppet/modules/rabbitmq"]
+	path = puppet/modules/rabbitmq
+	url = https://github.com/puppetlabs/puppetlabs-rabbitmq.git

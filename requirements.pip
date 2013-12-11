@@ -1,0 +1,13 @@
+# Web Server Stuff
+Flask==0.10.1
+gunicorn==17.5
+Flask-Cache==0.12
+
+# Celery
+celery==3.0.23
+
+# Database connectivity and ORM
+SQLAlchemy==0.8.2
+# Flask-SQLAlchemy: Can be changed when 2.0 lands....
+git+git://github.com/mitsuhiko/flask-sqlalchemy@a2ea524163a34857e14b62bff36740bb2d328336
+psycopg2==2.5.1
